@@ -1,2 +1,2 @@
 # Automatically-Generate-a-PDF-and-send-it-by-Email
-Automatically Generate a PDF and send it by Email (google Quiklabs)
+Automatically Generate a PDF and send it by Email (Google Quiklabs)
